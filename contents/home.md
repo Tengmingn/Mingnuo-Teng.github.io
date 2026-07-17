@@ -1,20 +1,20 @@
 [![XX](https://img.shields.io/badge/Tengmingnuo-github-blue?logo=github)](https://github.com/Tengmingn)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
-
+I'm currently pursuing a Master's degree in School of Electrical and
+Information Engineering, Tianjin University, Tianjin, China.
+Expected Graduation: June 2027
 #### Email  
 <code>tmn@tju.edu.cn</code>  
 <code>log2022@yeah.net</code>
 
 #### Education  
-**Tianjin University**, Master of XX (XX – XX)  
+**Tianjin University**, Master of Information and Communication Engineering (2024 – 2027)  
 • GPA: XX/XX  
 
-**XX University**, Exchange student <br>  
+**Tianjin University**, Bachelor of Information Engineering (2020 – 2024)
 • As a XX, represented my college as an outstanding student for a XX exchange program.  
-
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
+  
+• GPA: XX/4.0 (top 20%)  
 
 #### Research Interests  
-XX, XX, XX, XX.
+Image Restoration, Image Super-resolution, Semantic Segmentation, Weakly Supervised- learning, Computer Vision.
