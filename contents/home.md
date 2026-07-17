@@ -12,6 +12,7 @@ Expected Graduation: June 2027
 • GPA: XX/XX  
 
 **Tianjin University**, Bachelor of Information Engineering (2020 – 2024)
+
 • GPA: XX/4.0 (top 20%)  
 
 #### Research Interests  
