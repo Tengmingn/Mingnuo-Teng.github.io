@@ -4,7 +4,7 @@ I'm currently pursuing a Master's degree in XX at the Department of XX, XX Unive
 
 #### Email  
 <code>tmn@tju.edu.cn</code>  
-<code>XX@XX.XX</code>
+<code>log2022@yeah.net</code>
 
 #### Education  
 **Tianjin University**, Master of XX (XX – XX)  
